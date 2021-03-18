@@ -33,4 +33,8 @@ Compute gradient direction
 ### Step 6:
 Compute Non-Maxima Suppression
 ![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_4.jpg)
+### Step 7:
+Compute Non-Maxima Suppression
+![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_5.jpg)
+
 
