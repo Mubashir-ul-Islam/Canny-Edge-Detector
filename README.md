@@ -22,5 +22,8 @@ Run the given Jupyter notebook, it will generate all images and save them in the
 ### Step 2:
 Applying `Gaussian mask` to make the input image smooth.
 ### Step 3:
+Compute image derivative `fx` and `fy`
 ![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_1.jpg)
-
+### Step 4:
+Compute gradient magnitude
+![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_2.jpg)
