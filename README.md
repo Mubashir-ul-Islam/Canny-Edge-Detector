@@ -29,12 +29,18 @@ Compute gradient magnitude
 ![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_2.jpg)
 ### Step 5:
 Compute gradient direction
+
+
 ![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_3.jpg)
 ### Step 6:
 Compute Non-Maxima Suppression
+
+
 ![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_4.jpg)
 ### Step 7:
 Compute Non-Maxima Suppression
+
+
 ![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_5.jpg)
 
 
