@@ -25,20 +25,16 @@ Applying `Gaussian mask` to make the input image smooth.
 Compute image derivative `fx` and `fy`
 ![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_1.jpg)
 ### Step 4:
-Compute gradient magnitude
 ![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_2.jpg)
 ### Step 5:
-Compute gradient direction
 
 
 ![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_3.jpg)
 ### Step 6:
-Compute Non-Maxima Suppression
 
 
 ![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_4.jpg)
 ### Step 7:
-Compute Hysteresis Thresholding
 
 
 ![image text](https://github.com/Mubashir-ul-Islam/Canny-Edge-Detector/blob/main/Readme%20Images/plot_5.jpg)
